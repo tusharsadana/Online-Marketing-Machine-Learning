@@ -10,7 +10,7 @@ Predictive modelling is being used by companies and individuals all over the wor
 
 Here are the attributes of the survey
 
-Attribute
+# Attribute
 
 age
 
@@ -36,7 +36,8 @@ monthlyhouseholdincome
 
 target_buy
 
-Description
+
+# Description
 
 Age of the Lead
 
@@ -67,6 +68,8 @@ Is converted to customer or not (Binary –Yes
 /No). This is known as Target or Response
 
 and this is what we are modelling.
+
+
 Handle the missing data and perform necessary data pre-processing.
 
 
